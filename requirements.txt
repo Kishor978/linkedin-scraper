@@ -1,0 +1,8 @@
+requests~=2.32.3
+beautifulsoup4~=4.13.3
+requests-html~=0.10.0
+bs4~=0.0.2
+lxml-html-clean
+crawl4ai
+fastapi
+uvicorn
